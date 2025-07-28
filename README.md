@@ -26,9 +26,13 @@ ByteTalk is a full-stack, real-time messaging application built with the MERN st
 ## 📦 File Structure
 
 ByteTalk/
+
 ├── client/ # React frontend
+
 ├── server/ # Express backend with Socket.IO
+
 ├── README.md
+
 └── package.json (with concurrently)
 
 ## 🧑‍💻 Getting Started
